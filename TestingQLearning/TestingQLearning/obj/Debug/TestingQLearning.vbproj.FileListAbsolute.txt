@@ -1,0 +1,10 @@
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.vbprojResolveAssemblyReference.cache
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.Resources.resources
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.vbproj.GenerateResource.Cache
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\TestingQLearning\TestingQLearning\bin\Debug\TestingQLearning.exe.config
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\TestingQLearning\TestingQLearning\bin\Debug\TestingQLearning.exe
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\TestingQLearning\TestingQLearning\bin\Debug\TestingQLearning.pdb
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\TestingQLearning\TestingQLearning\bin\Debug\TestingQLearning.xml
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.exe
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.xml
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.pdb
